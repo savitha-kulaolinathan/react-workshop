@@ -1,0 +1,43 @@
+.Vote {
+  display: block;
+  border: 3px solid teal;
+  padding: 6px;
+  margin: 4px auto;
+  text-align: left;
+  width: 300px;
+}
+.Buttons {
+  text-align: center;
+  justify-content: center;
+}
+
+.Buttons button {
+  padding: 4px;
+  margin: 5px;
+  background-color: rgb(52, 204, 153);
+  outline: none;
+}
+.Votes label {
+  font-weight: bold;
+  width: 6em;
+}
+
+.Votes p {
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.Votes__bar {
+  height: 4px;
+  margin-bottom: 10px;
+}
+
+.Votes__bar--chocolate {
+  background-color: rgb(61, 10, 10);
+}
+.Votes__bar--vanilla {
+  background-color: Silver;
+}
+.Votes__bar--strawberry {
+  background-color: rgb(243, 140, 140);
+}

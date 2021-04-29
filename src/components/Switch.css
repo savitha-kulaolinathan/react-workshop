@@ -1,0 +1,10 @@
+.Switch {
+    border: 2px solid black;
+    width:200px;
+    text-align: center;
+    margin: 10px auto;
+}
+ 
+.Switch.blue{
+    background-color: blue;
+}

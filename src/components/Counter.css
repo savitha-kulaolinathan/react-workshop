@@ -1,0 +1,13 @@
+.Counter {
+    border: 2px solid black;
+    width:200px;
+    text-align: center;
+    margin: 10px auto;
+}
+.Counter.negative {
+    border-color: red; 
+    background-color: aliceblue; 
+}
+.Counter.negative .Counter-count {
+   color:red; 
+}
